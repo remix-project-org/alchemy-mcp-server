@@ -1,11 +1,11 @@
 **Token Price Methods:**
 1. "What's the current price of ETH, BTC, and SOL?"
-2. "What's the price the token at address 0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984 on Ethereum mainnet?"
-3. "Show me ETH price history from June 1 to July 1, 2023, with daily intervals"
+2. "What's the price the token at address 0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984 on Ethereum mainnet (eth-mainnet)?"
+3. "Show me ETH price history from June 1 to July 1, 2025, with daily intervals 1d"
 
 **Multichain Token Methods:**
-4. "What tokens does wallet 0xd8da6bf26964af9d7eed9e03e53415d37aa96045 hold across Ethereum and Base?"
-5. "Show me all token balances for Vitalik's wallet (0xd8da6bf26964af9d7eed9e03e53415d37aa96045) on Ethereum, Base, and Optimism"
+4. "What tokens does wallet 0xd8da6bf26964af9d7eed9e03e53415d37aa96045 hold across Eth-mainnet and Base-mainnet?"
+5. "Show me all token balances for Vitalik's wallet (0xd8da6bf26964af9d7eed9e03e53415d37aa96045) on Eth-mainet, Base-mainnet, and Optimism"
 
 **Transaction History Methods:**
 6. "Show me the last 10 transactions for 0xd8da6bf26964af9d7eed9e03e53415d37aa96045 on Ethereum mainnet"

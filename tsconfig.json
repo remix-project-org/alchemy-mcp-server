@@ -12,6 +12,7 @@
     "outDir": "./dist",
     "rootDir": "."
   },
+  "files": ["alchemy-service-manager.ts", "http-server.ts", "index.ts"],
   "include": ["index.ts", "api", "types", "utils", "libs"],
   "exclude": ["node_modules", "dist"]
 }
