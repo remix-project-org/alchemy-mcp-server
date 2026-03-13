@@ -8,3 +8,4 @@ tests/
 .claude/
 CLAUDE.md
 plans/
+package-lock.json
