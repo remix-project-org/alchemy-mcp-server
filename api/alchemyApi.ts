@@ -139,7 +139,7 @@ export const alchemyApi = {
     try {
       const client = createNftClient();
       
-      const response = await client.post('/by-address', {
+      const response = await client.post('/contracts/by-address', {
         ...params
       });
 
